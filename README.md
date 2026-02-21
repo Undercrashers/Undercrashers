@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://undercrashers.github.io/Portfolio/](https://undercrashers.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [[https://www.priyanshude.tech//](https://www.priyanshude.tech/)]
 
 - 💬 Ask me about **NextJS, GSAP and ThreeJs**
 
